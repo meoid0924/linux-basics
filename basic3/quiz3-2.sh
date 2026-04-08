@@ -6,3 +6,5 @@ else
     echo "디렉토리가 아닙니다."
 fi
 exit 0
+
+
